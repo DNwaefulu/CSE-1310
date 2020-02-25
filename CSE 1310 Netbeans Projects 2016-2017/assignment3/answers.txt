@@ -1,0 +1,27 @@
+Deion Nwaefulu
+1001226334
+
+Task 1: BooleanPractice
+
+b1 = false
+b2 = false
+b3 = true
+b4 = false
+b5 = true
+b6 = false
+b7 = false
+b8 = true
+b9 = false
+b10 = true
+
+Task 2: Strawberry
+
+b1 = true
+b2 = false
+b3 = true
+b4 = false
+
+Task 3: StringComparisons
+
+checkpoint 1
+checkpoint 3

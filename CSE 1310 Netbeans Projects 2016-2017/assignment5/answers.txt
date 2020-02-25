@@ -1,0 +1,18 @@
+Task 1:	VariablesAB
+1: a = 5
+2: b = 3
+3: a = 25
+4: b = 6
+5: a = 3
+6: b = 5
+
+Task2: VariableA
+a = 1
+b = 5
+c = 7
+d = 21
+
+Task 3:	StringA
+b = Arlington
+c = Arli
+d = Ar

@@ -1,0 +1,15 @@
+Task 1: Pointers2D
+
+    4.4    3.3    2.2    1.1
+    4.4    3.3    2.2    1.1
+    4.4    3.3    2.2    1.1 
+
+Task 2: ArrayLists 
+
+[Chi, Den, New , Dal]
+
+
+Task 3: ArrayLists2D
+
+[[T], [T, Te], [T, Te, Tex], [T, Te, Tex, Texa], [T, Te, Tex, Texa, Texas]]
+

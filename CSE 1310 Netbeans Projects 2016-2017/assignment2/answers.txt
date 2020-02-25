@@ -1,0 +1,13 @@
+Deion Nwaefulu
+1001226334
+
+Task 1: Rounding
+y = 8
+
+Task 2: Operations
+x = 13.77
+
+Task 3: StringLength
+a = hello!123
+The length of a is 9 characters.
+The length of a is 9 characters.

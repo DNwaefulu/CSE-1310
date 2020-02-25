@@ -1,0 +1,9 @@
+Task 1: ArrayFoo
+
+a:     103    102    105
+c:       3      2      5
+
+Task 2: FooBar
+
+fort     worth     Texas
+june      july    august     hello     world

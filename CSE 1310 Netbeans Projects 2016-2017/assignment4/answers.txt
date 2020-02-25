@@ -1,0 +1,19 @@
+Deion Nwaefulu
+1001226334
+
+Task 1:  WhileB
+a =  42, b =  24
+a =  24, b =  18
+a =  18, b =   6
+a =   6, b =   0
+
+Task 2: WhileAB
+a = 5, b = 7
+a = 7, b = 8
+a = 9, b = 9
+
+Task 3:  WhileLimit
+a = 57
+a = 53
+a = 51
+a = 50
